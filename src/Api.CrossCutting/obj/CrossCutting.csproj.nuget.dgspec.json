@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\BRUNALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\BRUNALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -112,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\BRUNALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\Service.csproj": {
+    "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\BRUNALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,11 +244,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto DDD - Base\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\BRUNALDO\\Desktop\\Projeto-DDD-Base\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

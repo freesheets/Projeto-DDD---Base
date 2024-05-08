@@ -75,11 +75,18 @@ namespace application
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            //String para chamar a API 
-            var urlCliente = "";
-            app.UseCors(c => c.WithOrigins(urlCliente));
 
-            //String para chamar a API //http://localhost:5000/api/urldacontroller
+            //String para chamar a API 
+            #region Novo
+            var urlCliente = "http://localhost:4200";
+
+            app.UseCors(builder => builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .AllowCredentials()
+                .WithOrigins(urlCliente));
+            #endregion
 
             if (env.IsDevelopment())
             {
